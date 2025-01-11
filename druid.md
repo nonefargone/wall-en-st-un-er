@@ -10,3 +10,5 @@ gen
 ![images51](https://github.com/user-attachments/assets/299f1cd4-bd72-41cb-99d6-3492da022bad)
 ![images-2](https://github.com/user-attachments/assets/faac44ff-2cc1-4e92-b814-23cbb9610782)
 ![440px-Shinobue_3types](https://github.com/user-attachments/assets/40ba8123-9e37-42e9-b76e-8902e39cda7a)
+![zhatira-rosalina-terminada](https://github.com/user-attachments/assets/f476eadd-e55f-4dbc-a66c-81a7ab3bd221)
+![00358-3597504250](https://github.com/user-attachments/assets/d305adba-2ed1-4310-9613-d74b825c10fa)
