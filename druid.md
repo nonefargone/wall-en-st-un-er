@@ -12,3 +12,17 @@ gen
 ![440px-Shinobue_3types](https://github.com/user-attachments/assets/40ba8123-9e37-42e9-b76e-8902e39cda7a)
 ![zhatira-rosalina-terminada](https://github.com/user-attachments/assets/f476eadd-e55f-4dbc-a66c-81a7ab3bd221)
 ![00358-3597504250](https://github.com/user-attachments/assets/d305adba-2ed1-4310-9613-d74b825c10fa)
+
+ai save 
+ai     member 
+ai           let 
+
+go
+  about 
+
+  signal
+
+  team 
+       members 
+
+  
