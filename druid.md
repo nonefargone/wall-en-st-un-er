@@ -1,9 +1,9 @@
-cap flute
+cap flute 🍀
 
-at ai 
-ai   ai 
+at ai 🍀
+ai   ai  🍀
 
-gen
+gen 🍀
 
   cap![young_female_druid_with_red_hair_in_a_sacred_grove-1](https://github.com/user-attachments/assets/3b5af583-f638-430b-9db2-237f9fed31be)
 ![Druid_(class)](https://github.com/user-attachments/assets/886a1eb9-2715-49f4-ada4-b84655a02da9)
